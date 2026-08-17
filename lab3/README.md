@@ -27,14 +27,11 @@
 
 ## Σύνδεσμοι Wokwi
 
+Ξεκινάς πάντα από το **Αρχικό κύκλωμα** — τα υπόλοιπα τα χτίζεις μόνος σου στο μάθημα!
+
 | Βήμα | Project | Σύνδεσμος |
 |---|---|---|
-| Αρχικό κύκλωμα | lab_3a_safekit_diagram | *έρχεται* |
-| Βήμα 1 | lab_3b_safekit_calibrate_ldr | *έρχεται* |
-| Βήμα 2 | lab_3c_safekit_night_light | *έρχεται* |
-| Βήμα 3 | lab_3d_safekit_pot_brightness | *έρχεται* |
-| Στάδιο 1 | lab_3e_safekit_sos | *έρχεται* |
-| Στάδιο 2 | lab_3f_safekit_medicine_reminder | *έρχεται* |
+| Αρχικό κύκλωμα | lab_3a_safekit_diagram | [άνοιγμα](https://wokwi.com/projects/471803562657061889) |
 
 ## Για το σπίτι (αν θες)
 
